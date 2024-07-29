@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class Currencycal {
     public static void main(String[] args) {
         float value;int input;
         int i = 1;
